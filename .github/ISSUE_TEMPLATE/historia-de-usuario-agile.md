@@ -7,16 +7,15 @@ assignees: ''
 
 ---
 
-**Como** [role]  
- **Necesito que** [function]  
- **Para** [benefit]  
+**Como** [rol]  
+ **Necesito** [función]  
+ **Para** [beneficio]  
    
  ### Detalles y suposiciones.
- * [document what you know]
+ * [documentación]
    
- ### Criterios de aceptación
-   
- ```Gherkin
+ ### Criterios de aceptación 
+ ```
 Dado [cierto contexto]
  Cuando [se realiza cierta acción]
  Entonces [se observa este resultado]
